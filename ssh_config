@@ -1,6 +1,0 @@
-#GitHub
-Host gitC
-	User git
-	HostName github.com
-	PreferredAuthentications publickey
-	IdentityFile ~/dotfiles/id_rsa
